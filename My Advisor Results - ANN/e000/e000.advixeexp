@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1743409772</timestamp>
+  <hostname>DESKTOP-PCLDLKU</hostname>
+  <os>windows</os>
+  <product>Intel® Advisor 2019</product>
+  <buildNumber type="s32_t">570901</buildNumber>
+  <logicalCPUCount type="s32_t">12</logicalCPUCount>
+  <physicalCoreCount type="s32_t">6</physicalCoreCount>
+  <CPUFrequency type="s64_t">2994000000</CPUFrequency>
+  <CPUFamily type="s32_t">23</CPUFamily>
+  <CPUModel type="s32_t">96</CPUModel>
+  <CPUStepping type="s32_t">1</CPUStepping>
+  <CPUBrandName>AMD Ryzen 5 4600H with Radeon Graphics         </CPUBrandName>
+  <isa>avx2</isa>
+ </rdmgr>
+</root>
